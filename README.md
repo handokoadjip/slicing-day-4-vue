@@ -1,4 +1,4 @@
-# day-1-vue
+# Milan Vučković | MY DREAM TRAVEL BLOG
 
 ## Project setup
 ```
